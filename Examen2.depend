@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1498161406 source:c:\users\rafael\documents\examen2\test.cpp
+	"Test.h"
+
+1498161406 c:\users\rafael\documents\examen2\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1498172778 source:c:\users\rafael\documents\examen2\main.cpp
+	"Test.h"
+	<iostream>
+	<map>
+	<stdio.h>
+	<string.h>
+
